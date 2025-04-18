@@ -1,7 +1,5 @@
 # Club Store E-commerce
 
-
-
 <img src="./src/assets/preview.png" alt="Exemplo imagem">
 
 > A Club Store trata-se de uma aplicação de E-commerce desenvolvida com Typescript, React, Firebase Authentication e Firestore.
@@ -43,9 +41,9 @@ Para iniciá-lo, siga os passos abaixo:
 $ yarn
 
 # Iniciar o projeto
-$ yarn start
+$ yarn dev
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+O app estará disponível no seu browser pelo endereço http://localhost:5173.
 
 
 ## 📝 Licença
